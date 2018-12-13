@@ -7,7 +7,7 @@ import Rooms.Trap;
 	
 import java.util.Scanner;
 
-public class Runner {
+public class Runner { 
 	
 
 	private static boolean gameOn = true;
